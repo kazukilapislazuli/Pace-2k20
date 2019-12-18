@@ -613,6 +613,37 @@ body {
 }
 
 
+/* ------------------------------------------------ */
+/* OUR TEAM */
+/* ------------------------------------------------ */
+.our-team{
+    margin-top: 70px;
+    /* background-color: red; */
+}
+
+.our-team h1{
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    font-size: 48px;
+    font-weight: 600;
+    color: hsl(0, 0%, 0%);
+}
+.card-name {
+    text-align: center;
+    color: black;
+    font-size: 25px;
+}
+
+.card-title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color:black;
+}
+
+
+
 /*------------------------------------------------------------
 # site-footer
 ------------------------------------------------------------*/

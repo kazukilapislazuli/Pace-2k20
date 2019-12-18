@@ -4461,7 +4461,7 @@ tbody.collapse.show {
   -webkit-box-flex: 1;
   -ms-flex: 1 1 auto;
   flex: 1 1 auto;
-  padding: 1.25rem;
+  padding: 1.25px;
 }
 
 .card-title {
@@ -4582,9 +4582,9 @@ tbody.collapse.show {
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
-    margin-right: 15px;
+    margin-right: 2px;
     margin-bottom: 0;
-    margin-left: 15px;
+    margin-left: 2px;
   }
 }
 
@@ -4599,7 +4599,7 @@ tbody.collapse.show {
 }
 
 .card-group > .card {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
 @media (min-width: 576px) {
