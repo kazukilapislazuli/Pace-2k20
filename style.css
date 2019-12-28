@@ -644,7 +644,7 @@ body {
 # site-footer
 ------------------------------------------------------------*/
 .site-footer {
-    position: relative;
+    position: absolute;
     padding: 40px 0 30px;
     background: url(images/footer-cover.jpg) no-repeat;
     background-size: cover;
