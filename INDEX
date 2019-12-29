@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>PACE 2K20</title>
+    <title>AIT Sports Club</title>
 
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
     <!-- Bootstrap CSS -->
@@ -28,7 +28,7 @@
                 <div class="row align-items-center">
                     <div class="col-10 col-lg-4">
                         <h1 class="site-branding flex">
-                            <a href="https://form.jotform.com/193613278669068">PACE 2k20</a>
+                            <a href="#">AIT SPORTS CLUB</a>
                         </h1>
                     </div>
 
@@ -42,7 +42,7 @@
                             </div><!-- .hamburger-menu -->
 
                             <ul>
-                                <li><a href="./index.html">HOME</a></li>
+                                <li><a href="#">HOME</a></li>
                                 <li><a href="./PACE.html">PACE 2k20</a></li>
                                 <li><a href="./AAKRITI.html">AAKRITI</a></li>
                                 <li><a href="./GALLERY.html">GALLERY</a></li>
@@ -61,14 +61,14 @@
             <div class="row">
                 <div class="col-12 offset-lg-2 col-lg-10">
                     <div class="entry-header">
-                        <h2>Let's Kick Some Ball</h2>
+                        <h2>PACE-2k20</h2>
 
                         <!-- <div class="entry-meta-date">
                             26.01.2020
                         </div>.entry-meta-date -->
                     </div><!-- .entry-header -->
 
-                    <div class="countdown flex flex-wrap justify-content-between" data-date="2020/01/26">
+                    <div class="countdown flex flex-wrap justify-content-between" data-date="2020/02/15">
                         <div class="countdown-holder">
                             <div class="dday"></div>
                             <label>Days</label>
@@ -95,8 +95,8 @@
             <div class="row">
                 <div class="col-12 ">
                     <div class="entry-footer">
-                        <a href="https://form.jotform.com/193613278669068" class="btn current">REGISTER</a>
-                        <a href="#" class="btn current">Checkout Events</a>
+                        <a href="https://form.jotform.com/193613278669068" class="btn current">Click to REGISTER</a>
+                        <!-- <a href="#" class="btn current">Checkout Events</a> -->
                     </div>
                 </div>
             </div>
@@ -116,7 +116,7 @@
                         <div class="lineup-artists">
                             <div class="lineup-artists-wrap flex flex-wrap">
                                 <figure class="featured-image">
-                                    <a href="https://form.jotform.com/193613278669068"> <img src="./images/football.jpg" alt=""> </a>
+                                    <a href="#"> <img src="./images/football.jpg" alt=""> </a>
                                 </figure><!-- featured-image -->
 
                                 <div class="lineup-artists-description">
@@ -143,7 +143,7 @@
                                         </div><!-- entry-content -->
 
                                         <div class="box-link">
-                                            <a href="https://form.jotform.com/193613278669068"><img src="images/box.jpg" alt=""></a>
+                                            <a href=""><img src="images/box.jpg" alt=""></a>
                                         </div><!-- box-link -->
                                     </div><!-- lineup-artists-description-container -->
                                 </div><!-- lineup-artists-description -->
@@ -154,7 +154,7 @@
                             <div class="lineup-artists-wrap flex flex-wrap">
                                 <div class="lineup-artists-description">
                                     <figure class="featured-image d-md-none">
-                                        <a href="https://form.jotform.com/193613278669068"> <img src="./images/mathew-kane.jpg" alt=""> </a>
+                                        <a href="#"> <img src="./images/mathew-kane.jpg" alt=""> </a>
                                     </figure><!-- featured-image -->
 
                                     <div class="lineup-artists-description-container">
@@ -180,19 +180,19 @@
                                         </div><!-- entry-content -->
 
                                         <div class="box-link">
-                                            <a href="https://form.jotform.com/193613278669068"><img src="images/box.jpg" alt=""></a>
+                                            <a href="#"><img src="images/box.jpg" alt=""></a>
                                         </div><!-- box-link -->
                                     </div><!-- lineup-artists-description-container -->
                                 </div><!-- lineup-artists-description -->
 
                                 <figure class="featured-image d-none d-md-block">
-                                    <a href="https://form.jotform.com/193613278669068"> <img src="images/mathew-kane.jpg" alt=""> </a>
+                                    <a href="#"> <img src="images/mathew-kane.jpg" alt=""> </a>
                                 </figure><!-- featured-image -->
                             </div><!-- lineup-artists-wrap -->
 
                             <div class="lineup-artists-wrap flex flex-wrap">
                                 <figure class="featured-image">
-                                    <a href="https://form.jotform.com/193613278669068"> <img src="images/eric-ward.jpg" alt=""> </a>
+                                    <a href="#"> <img src="images/eric-ward.jpg" alt=""> </a>
                                 </figure><!-- featured-image -->
 
                                 <div class="lineup-artists-description">
@@ -228,7 +228,7 @@
                             <div class="lineup-artists-wrap flex flex-wrap">
                                 <div class="lineup-artists-description">
                                     <figure class="featured-image d-md-none">
-                                        <a href="https://form.jotform.com/193613278669068"> <img src="https://www.wrenphoto.com.au/wp-content/uploads/2014/08/100817_cricket_portrait-1.jpg" alt=""> </a>
+                                        <a href="#"> <img src="https://www.wrenphoto.com.au/wp-content/uploads/2014/08/100817_cricket_portrait-1.jpg" alt=""> </a>
                                     </figure><!-- featured-image -->
 
                                     <div class="lineup-artists-description-container">
@@ -254,20 +254,20 @@
                                         </div><!-- entry-content -->
 
                                         <div class="box-link">
-                                            <a href="https://form.jotform.com/193613278669068"><img src="images/box.jpg" alt=""></a>
+                                            <a href="#"><img src="images/box.jpg" alt=""></a>
                                         </div><!-- box-link -->
                                     </div><!-- lineup-artists-description-container -->
                                 </div><!-- lineup-artists-description -->
 
                                 <figure class="featured-image d-none d-md-block">
-                                    <a href="https://form.jotform.com/193613278669068"> <img src="images/mathew-kane.jpg" alt=""> </a>
+                                    <a href="#"> <img src="images/mathew-kane.jpg" alt=""> </a>
                                 </figure><!-- featured-image -->
                             </div><!-- lineup-artists-wrap -->
 
 
                             <div class="lineup-artists-wrap flex flex-wrap">
                                 <figure class="featured-image">
-                                    <a href="https://form.jotform.com/193613278669068"> <img src="images/eric-ward.jpg" alt=""> </a>
+                                    <a href="#"> <img src="images/eric-ward.jpg" alt=""> </a>
                                 </figure><!-- featured-image -->
 
                                 <div class="lineup-artists-description">
@@ -294,7 +294,7 @@
                                         </div><!-- entry-content -->
 
                                         <div class="box-link">
-                                            <a href="https://form.jotform.com/193613278669068"> <img src="images/box.jpg" alt=""></a>
+                                            <a href="#"> <img src="images/box.jpg" alt=""></a>
                                         </div><!-- box-link -->
                                     </div><!-- lineup-artists-description-container -->
                                 </div><!-- lineup-artists-description -->                                                             
@@ -303,7 +303,7 @@
                             <div class="lineup-artists-wrap flex flex-wrap">
                                 <div class="lineup-artists-description">
                                     <figure class="featured-image d-md-none">
-                                        <a href="https://form.jotform.com/193613278669068"> <img src="https://www.wrenphoto.com.au/wp-content/uploads/2014/08/100817_cricket_portrait-1.jpg" alt=""> </a>
+                                        <a href="#"> <img src="https://www.wrenphoto.com.au/wp-content/uploads/2014/08/100817_cricket_portrait-1.jpg" alt=""> </a>
                                     </figure><!-- featured-image -->
 
                                     <div class="lineup-artists-description-container">
@@ -329,13 +329,13 @@
                                         </div><!-- entry-content -->
 
                                         <div class="box-link">
-                                            <a href="https://form.jotform.com/193613278669068"><img src="images/box.jpg" alt=""></a>
+                                            <a href="#"><img src="images/box.jpg" alt=""></a>
                                         </div><!-- box-link -->
                                     </div><!-- lineup-artists-description-container -->
                                 </div><!-- lineup-artists-description -->
 
                                 <figure class="featured-image d-none d-md-block">
-                                    <a href="https://form.jotform.com/193613278669068"> <img src="images/mathew-kane.jpg" alt=""> </a>
+                                    <a href="#"> <img src="images/mathew-kane.jpg" alt=""> </a>
                                 </figure><!-- featured-image -->
                             </div><!-- lineup-artists-wrap -->
 
@@ -343,7 +343,7 @@
                             <div class="lineup-artists">
                                 <div class="lineup-artists-wrap flex flex-wrap">
                                     <figure class="featured-image">
-                                        <a href="https://form.jotform.com/193613278669068"> <img src="./images/football.jpg" alt=""> </a>
+                                        <a href="#"> <img src="./images/football.jpg" alt=""> </a>
                                     </figure><!-- featured-image -->
     
                                     <div class="lineup-artists-description">
@@ -381,7 +381,7 @@
                                 <div class="lineup-artists-wrap flex flex-wrap">
                                     <div class="lineup-artists-description">
                                         <figure class="featured-image d-md-none">
-                                            <a href="https://form.jotform.com/193613278669068"> <img src="./images/mathew-kane.jpg" alt=""> </a>
+                                            <a href="#"> <img src="./images/mathew-kane.jpg" alt=""> </a>
                                         </figure><!-- featured-image -->
     
                                         <div class="lineup-artists-description-container">
@@ -407,19 +407,19 @@
                                             </div><!-- entry-content -->
     
                                             <div class="box-link">
-                                                <a href="https://form.jotform.com/193613278669068"><img src="images/box.jpg" alt=""></a>
+                                                <a href="#"><img src="images/box.jpg" alt=""></a>
                                             </div><!-- box-link -->
                                         </div><!-- lineup-artists-description-container -->
                                     </div><!-- lineup-artists-description -->
     
                                     <figure class="featured-image d-none d-md-block">
-                                        <a href="https://form.jotform.com/193613278669068"> <img src="images/mathew-kane.jpg" alt=""> </a>
+                                        <a href="#"> <img src="images/mathew-kane.jpg" alt=""> </a>
                                     </figure><!-- featured-image -->
                                 </div><!-- lineup-artists-wrap -->
     
                                 <div class="lineup-artists-wrap flex flex-wrap">
                                     <figure class="featured-image">
-                                        <a href="https://form.jotform.com/193613278669068"> <img src="images/eric-ward.jpg" alt=""> </a>
+                                        <a href="#"> <img src="images/eric-ward.jpg" alt=""> </a>
                                     </figure><!-- featured-image -->
     
                                     <div class="lineup-artists-description">
@@ -446,7 +446,7 @@
                                             </div><!-- entry-content -->
     
                                             <div class="box-link">
-                                                <a href="https://form.jotform.com/193613278669068"> <img src="images/box.jpg" alt=""></a>
+                                                <a href="#"> <img src="images/box.jpg" alt=""></a>
                                             </div><!-- box-link -->
                                         </div><!-- lineup-artists-description-container -->
                                     </div><!-- lineup-artists-description -->                                                             
@@ -455,7 +455,7 @@
                                 <div class="lineup-artists-wrap flex flex-wrap">
                                     <div class="lineup-artists-description">
                                         <figure class="featured-image d-md-none">
-                                            <a href="https://form.jotform.com/193613278669068"> <img src="https://www.wrenphoto.com.au/wp-content/uploads/2014/08/100817_cricket_portrait-1.jpg" alt=""> </a>
+                                            <a href="#"> <img src="https://www.wrenphoto.com.au/wp-content/uploads/2014/08/100817_cricket_portrait-1.jpg" alt=""> </a>
                                         </figure><!-- featured-image -->
     
                                         <div class="lineup-artists-description-container">
@@ -481,20 +481,20 @@
                                             </div><!-- entry-content -->
     
                                             <div class="box-link">
-                                                <a href="https://form.jotform.com/193613278669068"><img src="images/box.jpg" alt=""></a>
+                                                <a href="#"><img src="images/box.jpg" alt=""></a>
                                             </div><!-- box-link -->
                                         </div><!-- lineup-artists-description-container -->
                                     </div><!-- lineup-artists-description -->
     
                                     <figure class="featured-image d-none d-md-block">
-                                        <a href="https://form.jotform.com/193613278669068"> <img src="images/mathew-kane.jpg" alt=""> </a>
+                                        <a href="#"> <img src="images/mathew-kane.jpg" alt=""> </a>
                                     </figure><!-- featured-image -->
                                 </div><!-- lineup-artists-wrap -->
     
     
                                 <div class="lineup-artists-wrap flex flex-wrap">
                                     <figure class="featured-image">
-                                        <a href="https://form.jotform.com/193613278669068"> <img src="images/eric-ward.jpg" alt=""> </a>
+                                        <a href="#"> <img src="images/eric-ward.jpg" alt=""> </a>
                                     </figure><!-- featured-image -->
     
                                     <div class="lineup-artists-description">
@@ -521,7 +521,7 @@
                                             </div><!-- entry-content -->
     
                                             <div class="box-link">
-                                                <a href="https://form.jotform.com/193613278669068"> <img src="images/box.jpg" alt=""></a>
+                                                <a href="#"> <img src="images/box.jpg" alt=""></a>
                                             </div><!-- box-link -->
                                         </div><!-- lineup-artists-description-container -->
                                     </div><!-- lineup-artists-description -->                                                             
@@ -530,7 +530,7 @@
                                 <div class="lineup-artists-wrap flex flex-wrap">
                                     <div class="lineup-artists-description">
                                         <figure class="featured-image d-md-none">
-                                            <a href="https://form.jotform.com/193613278669068"> <img src="https://www.wrenphoto.com.au/wp-content/uploads/2014/08/100817_cricket_portrait-1.jpg" alt=""> </a>
+                                            <a href="#"> <img src="https://www.wrenphoto.com.au/wp-content/uploads/2014/08/100817_cricket_portrait-1.jpg" alt=""> </a>
                                         </figure><!-- featured-image -->
     
                                         <div class="lineup-artists-description-container">
@@ -556,20 +556,20 @@
                                             </div><!-- entry-content -->
     
                                             <div class="box-link">
-                                                <a href="https://form.jotform.com/193613278669068"><img src="images/box.jpg" alt=""></a>
+                                                <a href="#"><img src="images/box.jpg" alt=""></a>
                                             </div><!-- box-link -->
                                         </div><!-- lineup-artists-description-container -->
                                     </div><!-- lineup-artists-description -->
     
                                     <figure class="featured-image d-none d-md-block">
-                                        <a href="https://form.jotform.com/193613278669068"> <img src="images/mathew-kane.jpg" alt=""> </a>
+                                        <a href="#"> <img src="images/mathew-kane.jpg" alt=""> </a>
                                     </figure><!-- featured-image -->
                                 </div><!-- lineup-artists-wrap -->
 
 
                                 <div class="lineup-artists-wrap flex flex-wrap">
                                     <figure class="featured-image">
-                                        <a href="https://form.jotform.com/193613278669068"> <img src="images/eric-ward.jpg" alt=""> </a>
+                                        <a href="#"> <img src="images/eric-ward.jpg" alt=""> </a>
                                     </figure><!-- featured-image -->
     
                                     <div class="lineup-artists-description">
@@ -596,7 +596,7 @@
                                             </div><!-- entry-content -->
     
                                             <div class="box-link">
-                                                <a href="https://form.jotform.com/193613278669068"> <img src="images/box.jpg" alt=""></a>
+                                                <a href="#"> <img src="images/box.jpg" alt=""></a>
                                             </div><!-- box-link -->
                                         </div><!-- lineup-artists-description-container -->
                                     </div><!-- lineup-artists-description -->                                                             
@@ -615,8 +615,8 @@
                 <div class="col-12">
                     <div class="the-complete-lineup">
                         <div class="entry-title">
-                            <!-- <p>Bazinga!! JUST THE BEST</p> -->
-                            <h2>OUR SPONSORS</h2>
+                            <p>Bazinga!! JUST THE BEST</p>
+                            <h2>The Complete List Of Events</h2>
                         </div><!-- entry-title -->
 
                         <div class="row the-complete-lineup-artists">
@@ -629,7 +629,6 @@
                                 <h2>Table Tennis</h2>
                             </div><!-- artist-single -->
 
-
                             <div class="col-6 col-md-4 col-lg-3 artist-single">
                                 <figure class="featured-image">
                                     <a href="#"> <img src="images/image-2.jpg" alt=""> </a>
@@ -638,7 +637,6 @@
 
                                 <h2>Badminton</h2>
                             </div><!-- artist-single -->
-
 
                             <div class="col-6 col-md-4 col-lg-3 artist-single">
                                 <figure class="featured-image">
@@ -649,7 +647,6 @@
                                 <h2>Squash</h2>
                             </div><!-- artist-single -->
 
-
                             <div class="col-6 col-md-4 col-lg-3 artist-single">
                                 <figure class="featured-image">
                                     <a href="#"> <img src="images/image-4.jpg" alt=""> </a>
@@ -658,7 +655,6 @@
 
                                 <h2>Lawn Tennis</h2>
                             </div><!-- artist-single -->
-
 
                             <div class="col-6 col-md-4 col-lg-3 artist-single">
                                 <figure class="featured-image">
@@ -669,7 +665,6 @@
                                 <h2>Handball</h2>
                             </div><!-- artist-single -->
 
-
                             <div class="col-6 col-md-4 col-lg-3 artist-single">
                                 <figure class="featured-image">
                                     <a href="#"> <img src="images/image-6.jpg" alt=""> </a>
@@ -678,7 +673,6 @@
 
                                 <h2>Athletics</h2>
                             </div><!-- artist-single -->
-
 
                             <div class="col-6 col-md-4 col-lg-3 artist-single">
                                 <figure class="featured-image">
@@ -689,7 +683,6 @@
                                 <h2>Kho-Kho</h2>
                             </div><!-- artist-single -->
 
-
                             <div class="col-6 col-md-4 col-lg-3 artist-single">
                                 <figure class="featured-image">
                                     <a href="#"> <img src="images/image-8.jpg" alt=""> </a>
@@ -699,7 +692,6 @@
                                 <h2>Kabaddi</h2>
                             </div><!-- artist-single -->
                         </div><!-- the-complete-lineup-artists -->
-
 
                         <div class="row justify-content-center">
                             <div class="see-complete-lineup">
@@ -778,7 +770,7 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="entry-title">
-                            <a href="https://form.jotform.com/193613278669068">PACE-2k20</a>
+                            <a href="#">PACE-2k20</a>
                         </div><!-- entry-title -->
 
                         <div class="entry-mail">
