@@ -19,6 +19,7 @@
 
     <!-- Styles -->
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./gallery.css">
 </head>
 
 <body>
@@ -56,704 +57,141 @@
         </div><!-- header-bar -->
     </header><!-- .site-header -->
 
-    <div class="hero-content">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 offset-lg-2 col-lg-10">
-                    <div class="entry-header">
-                        <h2>PACE-2k20</h2>
+    <div id="photos">
+        <ul id="photo-gallery">
+          <li>
+            <a href="https://41.media.tumblr.com/0390d80d6c8cc4a7096033182a4bfe8a/tumblr_ndyvukSjNl1tubinno1_1280.jpg">
+              <img src="https://41.media.tumblr.com/0390d80d6c8cc4a7096033182a4bfe8a/tumblr_ndyvukSjNl1tubinno1_1280.jpg">
+            </a>
+          </li>
+          <li>
+            <a href="https://40.media.tumblr.com/bbe414414f4fd1f0b4886c6fcf4193de/tumblr_ndyvd3qoiL1tubinno1_1280.jpg">
+              <img src="https://40.media.tumblr.com/bbe414414f4fd1f0b4886c6fcf4193de/tumblr_ndyvd3qoiL1tubinno1_1280.jpg">
+            </a>
+          </li>
+          <li>
+            <a href="https://41.media.tumblr.com/3dde93f097de5e9db4f11b67729d6a2e/tumblr_na06dk1vWM1tubinno1_1280.jpg">
+              <img src="https://41.media.tumblr.com/3dde93f097de5e9db4f11b67729d6a2e/tumblr_na06dk1vWM1tubinno1_1280.jpg">
+            </a>
+          </li>
+          <li>
+           <a href="https://41.media.tumblr.com/0390d80d6c8cc4a7096033182a4bfe8a/tumblr_ndyvukSjNl1tubinno1_1280.jpg">
+             <img src="https://41.media.tumblr.com/0390d80d6c8cc4a7096033182a4bfe8a/tumblr_ndyvukSjNl1tubinno1_1280.jpg">
+           </a>
+         </li>
+         <li>
+           <a href="https://40.media.tumblr.com/bbe414414f4fd1f0b4886c6fcf4193de/tumblr_ndyvd3qoiL1tubinno1_1280.jpg">
+             <img src="https://40.media.tumblr.com/bbe414414f4fd1f0b4886c6fcf4193de/tumblr_ndyvd3qoiL1tubinno1_1280.jpg">
+           </a>
+         </li>
+         <li>
+           <a href="https://41.media.tumblr.com/3dde93f097de5e9db4f11b67729d6a2e/tumblr_na06dk1vWM1tubinno1_1280.jpg">
+             <img src="https://41.media.tumblr.com/3dde93f097de5e9db4f11b67729d6a2e/tumblr_na06dk1vWM1tubinno1_1280.jpg">
+           </a>
+         </li>        <li>
+           <a href="https://41.media.tumblr.com/0390d80d6c8cc4a7096033182a4bfe8a/tumblr_ndyvukSjNl1tubinno1_1280.jpg">
+             <img src="https://41.media.tumblr.com/0390d80d6c8cc4a7096033182a4bfe8a/tumblr_ndyvukSjNl1tubinno1_1280.jpg">
+           </a>
+         </li>
+         <li>
+           <a href="https://40.media.tumblr.com/bbe414414f4fd1f0b4886c6fcf4193de/tumblr_ndyvd3qoiL1tubinno1_1280.jpg">
+             <img src="https://40.media.tumblr.com/bbe414414f4fd1f0b4886c6fcf4193de/tumblr_ndyvd3qoiL1tubinno1_1280.jpg">
+           </a>
+         </li>
+         <li>
+           <a href="https://41.media.tumblr.com/3dde93f097de5e9db4f11b67729d6a2e/tumblr_na06dk1vWM1tubinno1_1280.jpg">
+             <img src="https://41.media.tumblr.com/3dde93f097de5e9db4f11b67729d6a2e/tumblr_na06dk1vWM1tubinno1_1280.jpg">
+           </a>
+         </li>        <li>
+           <a href="https://41.media.tumblr.com/0390d80d6c8cc4a7096033182a4bfe8a/tumblr_ndyvukSjNl1tubinno1_1280.jpg">
+             <img src="https://41.media.tumblr.com/0390d80d6c8cc4a7096033182a4bfe8a/tumblr_ndyvukSjNl1tubinno1_1280.jpg">
+           </a>
+         </li>
+         <li>
+           <a href="https://40.media.tumblr.com/bbe414414f4fd1f0b4886c6fcf4193de/tumblr_ndyvd3qoiL1tubinno1_1280.jpg">
+             <img src="https://40.media.tumblr.com/bbe414414f4fd1f0b4886c6fcf4193de/tumblr_ndyvd3qoiL1tubinno1_1280.jpg">
+           </a>
+         </li>
+         <li>
+           <a href="https://41.media.tumblr.com/3dde93f097de5e9db4f11b67729d6a2e/tumblr_na06dk1vWM1tubinno1_1280.jpg">
+             <img src="https://41.media.tumblr.com/3dde93f097de5e9db4f11b67729d6a2e/tumblr_na06dk1vWM1tubinno1_1280.jpg">
+           </a>
+         </li>        <li>
+           <a href="https://41.media.tumblr.com/0390d80d6c8cc4a7096033182a4bfe8a/tumblr_ndyvukSjNl1tubinno1_1280.jpg">
+             <img src="https://41.media.tumblr.com/0390d80d6c8cc4a7096033182a4bfe8a/tumblr_ndyvukSjNl1tubinno1_1280.jpg">
+           </a>
+         </li>
+         <li>
+           <a href="https://40.media.tumblr.com/bbe414414f4fd1f0b4886c6fcf4193de/tumblr_ndyvd3qoiL1tubinno1_1280.jpg">
+             <img src="https://40.media.tumblr.com/bbe414414f4fd1f0b4886c6fcf4193de/tumblr_ndyvd3qoiL1tubinno1_1280.jpg">
+           </a>
+         </li>
+         <li>
+           <a href="https://41.media.tumblr.com/3dde93f097de5e9db4f11b67729d6a2e/tumblr_na06dk1vWM1tubinno1_1280.jpg">
+             <img src="https://41.media.tumblr.com/3dde93f097de5e9db4f11b67729d6a2e/tumblr_na06dk1vWM1tubinno1_1280.jpg">
+           </a>
+         </li>        <li>
+           <a href="https://41.media.tumblr.com/0390d80d6c8cc4a7096033182a4bfe8a/tumblr_ndyvukSjNl1tubinno1_1280.jpg">
+             <img src="https://41.media.tumblr.com/0390d80d6c8cc4a7096033182a4bfe8a/tumblr_ndyvukSjNl1tubinno1_1280.jpg">
+           </a>
+         </li>
+         <li>
+           <a href="https://40.media.tumblr.com/bbe414414f4fd1f0b4886c6fcf4193de/tumblr_ndyvd3qoiL1tubinno1_1280.jpg">
+             <img src="https://40.media.tumblr.com/bbe414414f4fd1f0b4886c6fcf4193de/tumblr_ndyvd3qoiL1tubinno1_1280.jpg">
+           </a>
+         </li>
+         <li>
+           <a href="https://41.media.tumblr.com/3dde93f097de5e9db4f11b67729d6a2e/tumblr_na06dk1vWM1tubinno1_1280.jpg">
+             <img src="https://41.media.tumblr.com/3dde93f097de5e9db4f11b67729d6a2e/tumblr_na06dk1vWM1tubinno1_1280.jpg">
+           </a>
+         </li>        <li>
+           <a href="https://41.media.tumblr.com/0390d80d6c8cc4a7096033182a4bfe8a/tumblr_ndyvukSjNl1tubinno1_1280.jpg">
+             <img src="https://41.media.tumblr.com/0390d80d6c8cc4a7096033182a4bfe8a/tumblr_ndyvukSjNl1tubinno1_1280.jpg">
+           </a>
+         </li>
+         <li>
+           <a href="https://40.media.tumblr.com/bbe414414f4fd1f0b4886c6fcf4193de/tumblr_ndyvd3qoiL1tubinno1_1280.jpg">
+             <img src="https://40.media.tumblr.com/bbe414414f4fd1f0b4886c6fcf4193de/tumblr_ndyvd3qoiL1tubinno1_1280.jpg">
+           </a>
+         </li>
+         <li>
+           <a href="https://41.media.tumblr.com/3dde93f097de5e9db4f11b67729d6a2e/tumblr_na06dk1vWM1tubinno1_1280.jpg">
+             <img src="https://41.media.tumblr.com/3dde93f097de5e9db4f11b67729d6a2e/tumblr_na06dk1vWM1tubinno1_1280.jpg">
+           </a>
+         </li>
+          <li>
+            <a href="https://40.media.tumblr.com/e67b59d43c79c496b6fa8f1dddabef47/tumblr_nbc7zx6vJl1tubinno1_1280.jpg">
+              <img src="https://40.media.tumblr.com/e67b59d43c79c496b6fa8f1dddabef47/tumblr_nbc7zx6vJl1tubinno1_1280.jpg">
+            </a>
+          </li>
+          <li>
+            <a href="https://40.media.tumblr.com/d94d2a63ab509f403111c6e8ebfc22a4/tumblr_ndyfu61hzH1tubinno1_1280.jpg">
+              <img src="https://40.media.tumblr.com/d94d2a63ab509f403111c6e8ebfc22a4/tumblr_ndyfu61hzH1tubinno1_1280.jpg"></a>
+          </li>
+          <li>
+            <a href="https://40.media.tumblr.com/d7a014af6eaec53ccdc7a4171033f96d/tumblr_na06t4fnlI1tubinno1_1280.jpg">
+              <img src="https://40.media.tumblr.com/d7a014af6eaec53ccdc7a4171033f96d/tumblr_na06t4fnlI1tubinno1_1280.jpg">
+            </a>
+          </li>
+          <li>
+            <a href="https://40.media.tumblr.com/7302cf024c924726c6ad99bb80b0be41/tumblr_nauccbKUCw1tubinno1_1280.jpg">
+              <img src="https://40.media.tumblr.com/7302cf024c924726c6ad99bb80b0be41/tumblr_nauccbKUCw1tubinno1_1280.jpg">
+            </a>
+          </li>
+          <li>
+            <a href="https://41.media.tumblr.com/fddb3f2b0bdf390efd7ea87372e75fa5/tumblr_ndyg3pYbKW1tubinno1_1280.jpg"><img src="https://41.media.tumblr.com/fddb3f2b0bdf390efd7ea87372e75fa5/tumblr_ndyg3pYbKW1tubinno1_1280.jpg">
+            </a>
+          </li>
+          <li>
+            <a href="https://41.media.tumblr.com/758a5cb9046fde53138ad0f55527ca25/tumblr_ndyfdoR6Wp1tubinno1_1280.jpg">
+              <img src="https://41.media.tumblr.com/758a5cb9046fde53138ad0f55527ca25/tumblr_ndyfdoR6Wp1tubinno1_1280.jpg">
+            </a>
+          </li>
+        </ul>
+      </div>
 
-                        <!-- <div class="entry-meta-date">
-                            26.01.2020
-                        </div>.entry-meta-date -->
-                    </div><!-- .entry-header -->
 
-                    <div class="countdown flex flex-wrap justify-content-between" data-date="2020/02/15">
-                        <div class="countdown-holder">
-                            <div class="dday"></div>
-                            <label>Days</label>
-                        </div><!-- .countdown-holder -->
 
-                        <div class="countdown-holder">
-                            <div class="dhour"></div>
-                            <label>Hours</label>
-                        </div><!-- .countdown-holder -->
-
-                        <div class="countdown-holder">
-                            <div class="dmin"></div>
-                            <label>Minutes</label>
-                        </div><!-- .countdown-holder -->
-
-                        <div class="countdown-holder">
-                            <div class="dsec"></div>
-                            <label>Seconds</label>
-                        </div><!-- .countdown-holder -->
-                    </div><!-- .countdown -->
-                </div><!-- .col-12 -->
-            </div><!-- row -->
-
-            <div class="row">
-                <div class="col-12 ">
-                    <div class="entry-footer">
-                        <a href="#" class="btn current">Click to REGISTER</a>
-                        <!-- <a href="#" class="btn current">Checkout Events</a> -->
-                    </div>
-                </div>
-            </div>
-        </div><!-- .container -->
-    </div><!-- .hero-content -->
-
-    <div class="content-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="lineup-artists-headline">
-                        <div class="entry-title">
-                            <p>JUST THE BEST</p>
-                            <h2>Some Sports Delicacy</h2>
-                        </div><!-- entry-title -->
-
-                        <div class="lineup-artists">
-                            <div class="lineup-artists-wrap flex flex-wrap">
-                                <figure class="featured-image">
-                                    <a href="#"> <img src="./images/football.jpg" alt=""> </a>
-                                </figure><!-- featured-image -->
-
-                                <div class="lineup-artists-description">
-                                    <div class="lineup-artists-description-container">
-                                        <div class="entry-title">
-                                            Football
-                                        </div><!-- entry-title -->
-
-                                        <div class="entry-content">
-                                            <div class="card-deck">
-                                                <div class="card" style="border: none;">
-                                                    <p><b>Event Head &nbsp; (BOYS)</b><br>
-                                                        Name - <br>
-                                                        Phone No - <br>
-                                                    </p>
-                                                </div>
-                                                <div class="card" style="border: none;">
-                                                    <p><b>Event Head &nbsp; (GIRLS)</b><br>
-                                                        Name - <br>
-                                                        Phone No - <br>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div><!-- entry-content -->
-
-                                        <div class="box-link">
-                                            <a href=""><img src="images/box.jpg" alt=""></a>
-                                        </div><!-- box-link -->
-                                    </div><!-- lineup-artists-description-container -->
-                                </div><!-- lineup-artists-description -->
-                            </div><!-- lineup-artists-wrap -->
-
-                            
-
-                            <div class="lineup-artists-wrap flex flex-wrap">
-                                <div class="lineup-artists-description">
-                                    <figure class="featured-image d-md-none">
-                                        <a href="#"> <img src="./images/mathew-kane.jpg" alt=""> </a>
-                                    </figure><!-- featured-image -->
-
-                                    <div class="lineup-artists-description-container">
-                                        <div class="entry-title">
-                                            Cricket
-                                        </div><!-- entry-title -->
-
-                                        <div class="entry-content">
-                                            <div class="card-deck">
-                                                <div class="card" style="border: none;">
-                                                    <p><b>Event Head &nbsp; (BOYS)</b><br>
-                                                        Name - <br>
-                                                        Phone No - <br>
-                                                    </p>
-                                                </div>
-                                                <div class="card" style="border: none;">
-                                                    <p><b>Event Head &nbsp; (GIRLS)</b><br>
-                                                        Name - <br>
-                                                        Phone No - <br>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div><!-- entry-content -->
-
-                                        <div class="box-link">
-                                            <a href="#"><img src="images/box.jpg" alt=""></a>
-                                        </div><!-- box-link -->
-                                    </div><!-- lineup-artists-description-container -->
-                                </div><!-- lineup-artists-description -->
-
-                                <figure class="featured-image d-none d-md-block">
-                                    <a href="#"> <img src="images/mathew-kane.jpg" alt=""> </a>
-                                </figure><!-- featured-image -->
-                            </div><!-- lineup-artists-wrap -->
-
-                            <div class="lineup-artists-wrap flex flex-wrap">
-                                <figure class="featured-image">
-                                    <a href="#"> <img src="images/eric-ward.jpg" alt=""> </a>
-                                </figure><!-- featured-image -->
-
-                                <div class="lineup-artists-description">
-                                    <div class="lineup-artists-description-container">
-                                        <div class="entry-title">
-                                            Basketball
-                                        </div><!-- entry-title -->
-
-                                        <div class="entry-content">
-                                            <div class="card-deck">
-                                                <div class="card" style="border: none;">
-                                                    <p><b>Event Head &nbsp; (BOYS)</b><br>
-                                                        Name - <br>
-                                                        Phone No - <br>
-                                                    </p>
-                                                </div>
-                                                <div class="card" style="border: none;">
-                                                    <p><b>Event Head &nbsp; (GIRLS)</b><br>
-                                                        Name - <br>
-                                                        Phone No - <br>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div><!-- entry-content -->
-
-                                        <div class="box-link">
-                                            <a href="#"> <img src="images/box.jpg" alt=""></a>
-                                        </div><!-- box-link -->
-                                    </div><!-- lineup-artists-description-container -->
-                                </div><!-- lineup-artists-description -->                                                             
-                            </div><!-- lineup-artists-wrap -->
-
-                            <div class="lineup-artists-wrap flex flex-wrap">
-                                <div class="lineup-artists-description">
-                                    <figure class="featured-image d-md-none">
-                                        <a href="#"> <img src="https://www.wrenphoto.com.au/wp-content/uploads/2014/08/100817_cricket_portrait-1.jpg" alt=""> </a>
-                                    </figure><!-- featured-image -->
-
-                                    <div class="lineup-artists-description-container">
-                                        <div class="entry-title">
-                                            Cricket
-                                        </div><!-- entry-title -->
-
-                                        <div class="entry-content">
-                                            <div class="card-deck">
-                                                <div class="card" style="border: none;">
-                                                    <p><b>Event Head &nbsp; (BOYS)</b><br>
-                                                        Name - <br>
-                                                        Phone No - <br>
-                                                    </p>
-                                                </div>
-                                                <div class="card" style="border: none;">
-                                                    <p><b>Event Head &nbsp; (GIRLS)</b><br>
-                                                        Name - <br>
-                                                        Phone No - <br>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div><!-- entry-content -->
-
-                                        <div class="box-link">
-                                            <a href="#"><img src="images/box.jpg" alt=""></a>
-                                        </div><!-- box-link -->
-                                    </div><!-- lineup-artists-description-container -->
-                                </div><!-- lineup-artists-description -->
-
-                                <figure class="featured-image d-none d-md-block">
-                                    <a href="#"> <img src="images/mathew-kane.jpg" alt=""> </a>
-                                </figure><!-- featured-image -->
-                            </div><!-- lineup-artists-wrap -->
-
-
-                            <div class="lineup-artists-wrap flex flex-wrap">
-                                <figure class="featured-image">
-                                    <a href="#"> <img src="images/eric-ward.jpg" alt=""> </a>
-                                </figure><!-- featured-image -->
-
-                                <div class="lineup-artists-description">
-                                    <div class="lineup-artists-description-container">
-                                        <div class="entry-title">
-                                            Basketball
-                                        </div><!-- entry-title -->
-
-                                        <div class="entry-content">
-                                            <div class="card-deck">
-                                                <div class="card" style="border: none;">
-                                                    <p><b>Event Head &nbsp; (BOYS)</b><br>
-                                                        Name - <br>
-                                                        Phone No - <br>
-                                                    </p>
-                                                </div>
-                                                <div class="card" style="border: none;">
-                                                    <p><b>Event Head &nbsp; (GIRLS)</b><br>
-                                                        Name - <br>
-                                                        Phone No - <br>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div><!-- entry-content -->
-
-                                        <div class="box-link">
-                                            <a href="#"> <img src="images/box.jpg" alt=""></a>
-                                        </div><!-- box-link -->
-                                    </div><!-- lineup-artists-description-container -->
-                                </div><!-- lineup-artists-description -->                                                             
-                            </div><!-- lineup-artists-wrap -->
-
-                            <div class="lineup-artists-wrap flex flex-wrap">
-                                <div class="lineup-artists-description">
-                                    <figure class="featured-image d-md-none">
-                                        <a href="#"> <img src="https://www.wrenphoto.com.au/wp-content/uploads/2014/08/100817_cricket_portrait-1.jpg" alt=""> </a>
-                                    </figure><!-- featured-image -->
-
-                                    <div class="lineup-artists-description-container">
-                                        <div class="entry-title">
-                                            Cricket
-                                        </div><!-- entry-title -->
-
-                                        <div class="entry-content">
-                                            <div class="card-deck">
-                                                <div class="card" style="border: none;">
-                                                    <p><b>Event Head &nbsp; (BOYS)</b><br>
-                                                        Name - <br>
-                                                        Phone No - <br>
-                                                    </p>
-                                                </div>
-                                                <div class="card" style="border: none;">
-                                                    <p><b>Event Head &nbsp; (GIRLS)</b><br>
-                                                        Name - <br>
-                                                        Phone No - <br>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div><!-- entry-content -->
-
-                                        <div class="box-link">
-                                            <a href="#"><img src="images/box.jpg" alt=""></a>
-                                        </div><!-- box-link -->
-                                    </div><!-- lineup-artists-description-container -->
-                                </div><!-- lineup-artists-description -->
-
-                                <figure class="featured-image d-none d-md-block">
-                                    <a href="#"> <img src="images/mathew-kane.jpg" alt=""> </a>
-                                </figure><!-- featured-image -->
-                            </div><!-- lineup-artists-wrap -->
-
-
-                            <div class="lineup-artists">
-                                <div class="lineup-artists-wrap flex flex-wrap">
-                                    <figure class="featured-image">
-                                        <a href="#"> <img src="./images/football.jpg" alt=""> </a>
-                                    </figure><!-- featured-image -->
-    
-                                    <div class="lineup-artists-description">
-                                        <div class="lineup-artists-description-container">
-                                            <div class="entry-title">
-                                                Football
-                                            </div><!-- entry-title -->
-    
-                                            <div class="entry-content">
-                                                <div class="card-deck">
-                                                    <div class="card" style="border: none;">
-                                                        <p><b>Event Head &nbsp; (BOYS)</b><br>
-                                                            Name - <br>
-                                                            Phone No - <br>
-                                                        </p>
-                                                    </div>
-                                                    <div class="card" style="border: none;">
-                                                        <p><b>Event Head &nbsp; (GIRLS)</b><br>
-                                                            Name - <br>
-                                                            Phone No - <br>
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div><!-- entry-content -->
-    
-                                            <div class="box-link">
-                                                <a href=""><img src="images/box.jpg" alt=""></a>
-                                            </div><!-- box-link -->
-                                        </div><!-- lineup-artists-description-container -->
-                                    </div><!-- lineup-artists-description -->
-                                </div><!-- lineup-artists-wrap -->
-    
-                                
-    
-                                <div class="lineup-artists-wrap flex flex-wrap">
-                                    <div class="lineup-artists-description">
-                                        <figure class="featured-image d-md-none">
-                                            <a href="#"> <img src="./images/mathew-kane.jpg" alt=""> </a>
-                                        </figure><!-- featured-image -->
-    
-                                        <div class="lineup-artists-description-container">
-                                            <div class="entry-title">
-                                                Cricket
-                                            </div><!-- entry-title -->
-    
-                                            <div class="entry-content">
-                                                <div class="card-deck">
-                                                    <div class="card" style="border: none;">
-                                                        <p><b>Event Head &nbsp; (BOYS)</b><br>
-                                                            Name - <br>
-                                                            Phone No - <br>
-                                                        </p>
-                                                    </div>
-                                                    <div class="card" style="border: none;">
-                                                        <p><b>Event Head &nbsp; (GIRLS)</b><br>
-                                                            Name - <br>
-                                                            Phone No - <br>
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div><!-- entry-content -->
-    
-                                            <div class="box-link">
-                                                <a href="#"><img src="images/box.jpg" alt=""></a>
-                                            </div><!-- box-link -->
-                                        </div><!-- lineup-artists-description-container -->
-                                    </div><!-- lineup-artists-description -->
-    
-                                    <figure class="featured-image d-none d-md-block">
-                                        <a href="#"> <img src="images/mathew-kane.jpg" alt=""> </a>
-                                    </figure><!-- featured-image -->
-                                </div><!-- lineup-artists-wrap -->
-    
-                                <div class="lineup-artists-wrap flex flex-wrap">
-                                    <figure class="featured-image">
-                                        <a href="#"> <img src="images/eric-ward.jpg" alt=""> </a>
-                                    </figure><!-- featured-image -->
-    
-                                    <div class="lineup-artists-description">
-                                        <div class="lineup-artists-description-container">
-                                            <div class="entry-title">
-                                                Basketball
-                                            </div><!-- entry-title -->
-    
-                                            <div class="entry-content">
-                                                <div class="card-deck">
-                                                    <div class="card" style="border: none;">
-                                                        <p><b>Event Head &nbsp; (BOYS)</b><br>
-                                                            Name - <br>
-                                                            Phone No - <br>
-                                                        </p>
-                                                    </div>
-                                                    <div class="card" style="border: none;">
-                                                        <p><b>Event Head &nbsp; (GIRLS)</b><br>
-                                                            Name - <br>
-                                                            Phone No - <br>
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div><!-- entry-content -->
-    
-                                            <div class="box-link">
-                                                <a href="#"> <img src="images/box.jpg" alt=""></a>
-                                            </div><!-- box-link -->
-                                        </div><!-- lineup-artists-description-container -->
-                                    </div><!-- lineup-artists-description -->                                                             
-                                </div><!-- lineup-artists-wrap -->
-    
-                                <div class="lineup-artists-wrap flex flex-wrap">
-                                    <div class="lineup-artists-description">
-                                        <figure class="featured-image d-md-none">
-                                            <a href="#"> <img src="https://www.wrenphoto.com.au/wp-content/uploads/2014/08/100817_cricket_portrait-1.jpg" alt=""> </a>
-                                        </figure><!-- featured-image -->
-    
-                                        <div class="lineup-artists-description-container">
-                                            <div class="entry-title">
-                                                Cricket
-                                            </div><!-- entry-title -->
-    
-                                            <div class="entry-content">
-                                                <div class="card-deck">
-                                                    <div class="card" style="border: none;">
-                                                        <p><b>Event Head &nbsp; (BOYS)</b><br>
-                                                            Name - <br>
-                                                            Phone No - <br>
-                                                        </p>
-                                                    </div>
-                                                    <div class="card" style="border: none;">
-                                                        <p><b>Event Head &nbsp; (GIRLS)</b><br>
-                                                            Name - <br>
-                                                            Phone No - <br>
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div><!-- entry-content -->
-    
-                                            <div class="box-link">
-                                                <a href="#"><img src="images/box.jpg" alt=""></a>
-                                            </div><!-- box-link -->
-                                        </div><!-- lineup-artists-description-container -->
-                                    </div><!-- lineup-artists-description -->
-    
-                                    <figure class="featured-image d-none d-md-block">
-                                        <a href="#"> <img src="images/mathew-kane.jpg" alt=""> </a>
-                                    </figure><!-- featured-image -->
-                                </div><!-- lineup-artists-wrap -->
-    
-    
-                                <div class="lineup-artists-wrap flex flex-wrap">
-                                    <figure class="featured-image">
-                                        <a href="#"> <img src="images/eric-ward.jpg" alt=""> </a>
-                                    </figure><!-- featured-image -->
-    
-                                    <div class="lineup-artists-description">
-                                        <div class="lineup-artists-description-container">
-                                            <div class="entry-title">
-                                                Basketball
-                                            </div><!-- entry-title -->
-    
-                                            <div class="entry-content">
-                                                <div class="card-deck">
-                                                    <div class="card" style="border: none;">
-                                                        <p><b>Event Head &nbsp; (BOYS)</b><br>
-                                                            Name - <br>
-                                                            Phone No - <br>
-                                                        </p>
-                                                    </div>
-                                                    <div class="card" style="border: none;">
-                                                        <p><b>Event Head &nbsp; (GIRLS)</b><br>
-                                                            Name - <br>
-                                                            Phone No - <br>
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div><!-- entry-content -->
-    
-                                            <div class="box-link">
-                                                <a href="#"> <img src="images/box.jpg" alt=""></a>
-                                            </div><!-- box-link -->
-                                        </div><!-- lineup-artists-description-container -->
-                                    </div><!-- lineup-artists-description -->                                                             
-                                </div><!-- lineup-artists-wrap -->
-    
-                                <div class="lineup-artists-wrap flex flex-wrap">
-                                    <div class="lineup-artists-description">
-                                        <figure class="featured-image d-md-none">
-                                            <a href="#"> <img src="https://www.wrenphoto.com.au/wp-content/uploads/2014/08/100817_cricket_portrait-1.jpg" alt=""> </a>
-                                        </figure><!-- featured-image -->
-    
-                                        <div class="lineup-artists-description-container">
-                                            <div class="entry-title">
-                                                Cricket
-                                            </div><!-- entry-title -->
-    
-                                            <div class="entry-content">
-                                                <div class="card-deck">
-                                                    <div class="card" style="border: none;">
-                                                        <p><b>Event Head &nbsp; (BOYS)</b><br>
-                                                            Name - <br>
-                                                            Phone No - <br>
-                                                        </p>
-                                                    </div>
-                                                    <div class="card" style="border: none;">
-                                                        <p><b>Event Head &nbsp; (GIRLS)</b><br>
-                                                            Name - <br>
-                                                            Phone No - <br>
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div><!-- entry-content -->
-    
-                                            <div class="box-link">
-                                                <a href="#"><img src="images/box.jpg" alt=""></a>
-                                            </div><!-- box-link -->
-                                        </div><!-- lineup-artists-description-container -->
-                                    </div><!-- lineup-artists-description -->
-    
-                                    <figure class="featured-image d-none d-md-block">
-                                        <a href="#"> <img src="images/mathew-kane.jpg" alt=""> </a>
-                                    </figure><!-- featured-image -->
-                                </div><!-- lineup-artists-wrap -->
-
-
-                                <div class="lineup-artists-wrap flex flex-wrap">
-                                    <figure class="featured-image">
-                                        <a href="#"> <img src="images/eric-ward.jpg" alt=""> </a>
-                                    </figure><!-- featured-image -->
-    
-                                    <div class="lineup-artists-description">
-                                        <div class="lineup-artists-description-container">
-                                            <div class="entry-title">
-                                                Basketball
-                                            </div><!-- entry-title -->
-    
-                                            <div class="entry-content">
-                                                <div class="card-deck">
-                                                    <div class="card" style="border: none;">
-                                                        <p><b>Event Head &nbsp; (BOYS)</b><br>
-                                                            Name - <br>
-                                                            Phone No - <br>
-                                                        </p>
-                                                    </div>
-                                                    <div class="card" style="border: none;">
-                                                        <p><b>Event Head &nbsp; (GIRLS)</b><br>
-                                                            Name - <br>
-                                                            Phone No - <br>
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div><!-- entry-content -->
-    
-                                            <div class="box-link">
-                                                <a href="#"> <img src="images/box.jpg" alt=""></a>
-                                            </div><!-- box-link -->
-                                        </div><!-- lineup-artists-description-container -->
-                                    </div><!-- lineup-artists-description -->                                                             
-                                </div><!-- lineup-artists-wrap -->
-
-
-
-                            
-
-                        </div><!-- lineup-artists -->
-                    </div><!-- lineup-artists-headline -->
-                </div><!-- col-12 -->
-            </div><!-- row -->
-
-            <div class="row">
-                <div class="col-12">
-                    <div class="the-complete-lineup">
-                        <div class="entry-title">
-                            <p>Bazinga!! JUST THE BEST</p>
-                            <h2>The Complete List Of Events</h2>
-                        </div><!-- entry-title -->
-
-                        <div class="row the-complete-lineup-artists">
-                            <div class="col-6 col-md-4 col-lg-3 artist-single">
-                                <figure class="featured-image">
-                                    <a href="#"> <img src="images/image-1.jpg" alt=""> </a>
-                                    <a href="#" class="box-link"> <img src="images/box.jpg" alt=""> </a>
-                                </figure><!-- featured-image -->
-
-                                <h2>Table Tennis</h2>
-                            </div><!-- artist-single -->
-
-                            <div class="col-6 col-md-4 col-lg-3 artist-single">
-                                <figure class="featured-image">
-                                    <a href="#"> <img src="images/image-2.jpg" alt=""> </a>
-                                    <a href="#" class="box-link"> <img src="images/box.jpg" alt=""> </a>
-                                </figure><!-- featured-image -->
-
-                                <h2>Badminton</h2>
-                            </div><!-- artist-single -->
-
-                            <div class="col-6 col-md-4 col-lg-3 artist-single">
-                                <figure class="featured-image">
-                                    <a href="#"> <img src="images/image-3.jpg" alt=""> </a>
-                                    <a href="#" class="box-link"> <img src="images/box.jpg" alt=""> </a>
-                                </figure><!-- featured-image -->
-
-                                <h2>Squash</h2>
-                            </div><!-- artist-single -->
-
-                            <div class="col-6 col-md-4 col-lg-3 artist-single">
-                                <figure class="featured-image">
-                                    <a href="#"> <img src="images/image-4.jpg" alt=""> </a>
-                                    <a href="#" class="box-link"> <img src="images/box.jpg" alt=""> </a>
-                                </figure><!-- featured-image -->
-
-                                <h2>Lawn Tennis</h2>
-                            </div><!-- artist-single -->
-
-                            <div class="col-6 col-md-4 col-lg-3 artist-single">
-                                <figure class="featured-image">
-                                    <a href="#"> <img src="images/image-5.jpg" alt=""> </a>
-                                    <a href="#" class="box-link"> <img src="images/box.jpg" alt=""> </a>
-                                </figure><!-- featured-image -->
-
-                                <h2>Handball</h2>
-                            </div><!-- artist-single -->
-
-                            <div class="col-6 col-md-4 col-lg-3 artist-single">
-                                <figure class="featured-image">
-                                    <a href="#"> <img src="images/image-6.jpg" alt=""> </a>
-                                    <a href="#" class="box-link"> <img src="images/box.jpg" alt=""> </a>
-                                </figure><!-- featured-image -->
-
-                                <h2>Athletics</h2>
-                            </div><!-- artist-single -->
-
-                            <div class="col-6 col-md-4 col-lg-3 artist-single">
-                                <figure class="featured-image">
-                                    <a href="#"> <img src="images/image-7.jpg" alt=""> </a>
-                                    <a href="#" class="box-link"> <img src="images/box.jpg" alt=""> </a>
-                                </figure><!-- featured-image -->
-
-                                <h2>Kho-Kho</h2>
-                            </div><!-- artist-single -->
-
-                            <div class="col-6 col-md-4 col-lg-3 artist-single">
-                                <figure class="featured-image">
-                                    <a href="#"> <img src="images/image-8.jpg" alt=""> </a>
-                                    <a href="#" class="box-link"> <img src="images/box.jpg" alt=""> </a>
-                                </figure><!-- featured-image -->
-
-                                <h2>Kabaddi</h2>
-                            </div><!-- artist-single -->
-                        </div><!-- the-complete-lineup-artists -->
-
-                        <div class="row justify-content-center">
-                            <div class="see-complete-lineup">
-                                <div class="entry-footer">
-                                    <a href="#" class="btn">Register</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- the-complete-lineup -->
-                </div><!-- col-12 -->
-
-                <div class="our-team">
-                    <h1>OUR TEAM</h1>
-                    <div class="card-deck">
-                        <div class="card-deck" style="margin-top: 30px;">                   
-                            <div class="card col-10" style="width:300px ; padding-top: 16px;">
-                                <img class="card-img-top"  src="./images/card1.jpg" alt="">
-                                <div class="card-body">
-                                    <h4 class="card-title">Overall Head</h4>
-                                    <h5 class="card-name">Kazuki</h5>
-                                </div>
-                            </div>
-        
-                            <div class="card col-10" style="width:300px ; padding-top: 16px;">
-                                <img class="card-img-top"  src="./images/card2.jpg" alt="">
-                                <div class="card-body">
-                                    <h4 class="card-title">Field Head</h4>
-                                    <h5 class="card-name">Dexter</h5>                                    
-                                </div>
-                            </div>
-        
-                            <div class="card col-10" style="width:300px ; padding-top: 16px;">
-                                <img class="card-img-top"  src="./images/card3.jpg" alt="">
-                                <div class="card-body">
-                                    <h4 class="card-title">COM Head</h4>
-                                    <h5 class="card-name">Mintexter</h5>                                    
-                                </div>
-                            </div>
-
-                            <div class="card col-10" style="width:300px ; padding-top: 16px;">
-                                <img class="card-img-top"  src="./images/card2.jpg" alt="">
-                                <div class="card-body">
-                                    <h4 class="card-title">Field Head</h4>
-                                    <h5 class="card-name">Dexter</h5>                                    
-                                </div>
-                            </div>
-        
-                            <div class="card col-10" style="width:300px ; padding-top: 16px;">
-                                <img class="card-img-top"  src="./images/card4.jpg" alt="">
-                                <div class="card-body">
-                                    <h4 class="card-title">Food Head</h4>
-                                    <h5 class="card-name">Fitter</h5>                                   
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-            </div><!-- row -->
-        </div><!-- container -->
-    </div>
 
     <footer class="site-footer">
         <div class="footer-cover-title flex justify-content-center align-items-center">

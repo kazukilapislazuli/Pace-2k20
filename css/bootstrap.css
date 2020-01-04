@@ -4488,8 +4488,12 @@ tbody.collapse.show {
 .card-header {
   padding: 0.75rem 1.25rem;
   margin-bottom: 0;
-  background-color: rgba(0, 0, 0, 0.03);
+  background-color:#0bdeeb;
   border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
 }
 
 .card-header:first-child {
@@ -4502,8 +4506,9 @@ tbody.collapse.show {
 
 .card-footer {
   padding: 0.75rem 1.25rem;
-  background-color: rgba(0, 0, 0, 0.03);
+  background-color:#0bdeeb;
   border-top: 1px solid rgba(0, 0, 0, 0.125);
+  text-align: center;
 }
 
 .card-footer:last-child {
