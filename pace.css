@@ -4,7 +4,7 @@
   font-family: 'Playfair Display', Arial, sans-serif;
   position: relative;
   overflow: hidden;
-  margin: 10px;
+  margin: 5px;
   min-width: 230px;
   max-width: 315px;
   max-height: 220px;
@@ -31,7 +31,7 @@
   right: 0;
   z-index: 1;
   opacity: 1;
-  padding: 30px 0 30px 10px;
+  padding: 10px 0 10px 0px;
   background-color: #ffffff;
   width: 40%;
   -webkit-transform: translateX(150%);
@@ -39,7 +39,7 @@
 }
 .snip1401 figcaption:before {
   position: absolute;
-  top: 50%;
+  top: 25%;
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
   right: 100%;
@@ -47,7 +47,7 @@
   width: 0;
   height: 0;
   border-style: solid;
-  border-width: 120px 120px 120px 0;
+  border-width: 140px 140px 140px 0;
   border-color: transparent #ffffff transparent transparent;
 }
 .snip1401:after {
@@ -67,7 +67,7 @@
 }
 .snip1401 h3,
 .snip1401 p {
-  line-height: 1.5em;
+  line-height: 1.2em;
   -webkit-transform: translateX(-30px);
   transform: translateX(-30px);
   margin: 0;
@@ -75,7 +75,7 @@
 .snip1401 h3 {
   margin: 0 0 5px;
   line-height: 1.1em;
-  font-weight: 900;
+  font-weight: 700;
   font-size: 1.4em;
   opacity: 0.75;
 }
@@ -86,8 +86,8 @@
   position: absolute;
   bottom: 0;
   left: 0;
-  padding: 20px 30px;
-  font-size: 44px;
+  padding: 10px 50px;
+  font-size: 34px;
   color: #ffffff;
   opacity: 0;
 }
