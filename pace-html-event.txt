@@ -1,0 +1,489 @@
+<div class="lineup-artists">
+                            <div class="lineup-artists-wrap flex flex-wrap">
+                                <figure class="featured-image">
+                                    <a href="https://form.jotform.com/193613278669068"> <img src="./images/football.jpg" alt=""> </a>
+                                </figure><!-- featured-image -->
+
+                                <div class="lineup-artists-description">
+                                    <div class="lineup-artists-description-container">
+                                        <div class="entry-title">
+                                            Football
+                                        </div><!-- entry-title -->
+
+                                        <div class="entry-content">
+                                            <div class="card-deck">
+                                                <div class="card" style="border: none;">
+                                                    <p><b>Event Head &nbsp; (BOYS)</b><br>
+                                                        Name - <br>
+                                                        Phone No - <br>
+                                                    </p>
+                                                </div>
+                                                <div class="card" style="border: none;">
+                                                    <p><b>Event Head &nbsp; (GIRLS)</b><br>
+                                                        Name - <br>
+                                                        Phone No - <br>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div><!-- entry-content -->
+
+                                        <div class="box-link">
+                                            <a href="https://form.jotform.com/193613278669068"><img src="images/box.jpg" alt=""></a>
+                                        </div><!-- box-link -->
+                                    </div><!-- lineup-artists-description-container -->
+                                </div><!-- lineup-artists-description -->
+                            </div><!-- lineup-artists-wrap -->
+
+                            
+
+                            <div class="lineup-artists-wrap flex flex-wrap">
+                                <div class="lineup-artists-description">
+                                    <figure class="featured-image d-md-none">
+                                        <a href="https://form.jotform.com/193613278669068"> <img src="./images/mathew-kane.jpg" alt=""> </a>
+                                    </figure><!-- featured-image -->
+
+                                    <div class="lineup-artists-description-container">
+                                        <div class="entry-title">
+                                            Cricket
+                                        </div><!-- entry-title -->
+
+                                        <div class="entry-content">
+                                            <div class="card-deck">
+                                                <div class="card" style="border: none;">
+                                                    <p><b>Event Head &nbsp; (BOYS)</b><br>
+                                                        Name - <br>
+                                                        Phone No - <br>
+                                                    </p>
+                                                </div>
+                                                <div class="card" style="border: none;">
+                                                    <p><b>Event Head &nbsp; (GIRLS)</b><br>
+                                                        Name - <br>
+                                                        Phone No - <br>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div><!-- entry-content -->
+
+                                        <div class="box-link">
+                                            <a href="https://form.jotform.com/193613278669068"><img src="images/box.jpg" alt=""></a>
+                                        </div><!-- box-link -->
+                                    </div><!-- lineup-artists-description-container -->
+                                </div><!-- lineup-artists-description -->
+
+                                <figure class="featured-image d-none d-md-block">
+                                    <a href="https://form.jotform.com/193613278669068"> <img src="images/mathew-kane.jpg" alt=""> </a>
+                                </figure><!-- featured-image -->
+                            </div><!-- lineup-artists-wrap -->
+
+                            <div class="lineup-artists-wrap flex flex-wrap">
+                                <figure class="featured-image">
+                                    <a href="https://form.jotform.com/193613278669068"> <img src="images/eric-ward.jpg" alt=""> </a>
+                                </figure><!-- featured-image -->
+
+                                <div class="lineup-artists-description">
+                                    <div class="lineup-artists-description-container">
+                                        <div class="entry-title">
+                                            Basketball
+                                        </div><!-- entry-title -->
+
+                                        <div class="entry-content">
+                                            <div class="card-deck">
+                                                <div class="card" style="border: none;">
+                                                    <p><b>Event Head &nbsp; (BOYS)</b><br>
+                                                        Name - <br>
+                                                        Phone No - <br>
+                                                    </p>
+                                                </div>
+                                                <div class="card" style="border: none;">
+                                                    <p><b>Event Head &nbsp; (GIRLS)</b><br>
+                                                        Name - <br>
+                                                        Phone No - <br>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div><!-- entry-content -->
+
+                                        <div class="box-link">
+                                            <a href="#"> <img src="images/box.jpg" alt=""></a>
+                                        </div><!-- box-link -->
+                                    </div><!-- lineup-artists-description-container -->
+                                </div><!-- lineup-artists-description -->                                                             
+                            </div><!-- lineup-artists-wrap -->
+
+                            <div class="lineup-artists-wrap flex flex-wrap">
+                                <div class="lineup-artists-description">
+                                    <figure class="featured-image d-md-none">
+                                        <a href="https://form.jotform.com/193613278669068"> <img src="https://www.wrenphoto.com.au/wp-content/uploads/2014/08/100817_cricket_portrait-1.jpg" alt=""> </a>
+                                    </figure><!-- featured-image -->
+
+                                    <div class="lineup-artists-description-container">
+                                        <div class="entry-title">
+                                            Cricket
+                                        </div><!-- entry-title -->
+
+                                        <div class="entry-content">
+                                            <div class="card-deck">
+                                                <div class="card" style="border: none;">
+                                                    <p><b>Event Head &nbsp; (BOYS)</b><br>
+                                                        Name - <br>
+                                                        Phone No - <br>
+                                                    </p>
+                                                </div>
+                                                <div class="card" style="border: none;">
+                                                    <p><b>Event Head &nbsp; (GIRLS)</b><br>
+                                                        Name - <br>
+                                                        Phone No - <br>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div><!-- entry-content -->
+
+                                        <div class="box-link">
+                                            <a href="https://form.jotform.com/193613278669068"><img src="images/box.jpg" alt=""></a>
+                                        </div><!-- box-link -->
+                                    </div><!-- lineup-artists-description-container -->
+                                </div><!-- lineup-artists-description -->
+
+                                <figure class="featured-image d-none d-md-block">
+                                    <a href="https://form.jotform.com/193613278669068"> <img src="images/mathew-kane.jpg" alt=""> </a>
+                                </figure><!-- featured-image -->
+                            </div><!-- lineup-artists-wrap -->
+
+
+                            <div class="lineup-artists-wrap flex flex-wrap">
+                                <figure class="featured-image">
+                                    <a href="https://form.jotform.com/193613278669068"> <img src="images/eric-ward.jpg" alt=""> </a>
+                                </figure><!-- featured-image -->
+
+                                <div class="lineup-artists-description">
+                                    <div class="lineup-artists-description-container">
+                                        <div class="entry-title">
+                                            Basketball
+                                        </div><!-- entry-title -->
+
+                                        <div class="entry-content">
+                                            <div class="card-deck">
+                                                <div class="card" style="border: none;">
+                                                    <p><b>Event Head &nbsp; (BOYS)</b><br>
+                                                        Name - <br>
+                                                        Phone No - <br>
+                                                    </p>
+                                                </div>
+                                                <div class="card" style="border: none;">
+                                                    <p><b>Event Head &nbsp; (GIRLS)</b><br>
+                                                        Name - <br>
+                                                        Phone No - <br>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div><!-- entry-content -->
+
+                                        <div class="box-link">
+                                            <a href="https://form.jotform.com/193613278669068"> <img src="images/box.jpg" alt=""></a>
+                                        </div><!-- box-link -->
+                                    </div><!-- lineup-artists-description-container -->
+                                </div><!-- lineup-artists-description -->                                                             
+                            </div><!-- lineup-artists-wrap -->
+
+                            <div class="lineup-artists-wrap flex flex-wrap">
+                                <div class="lineup-artists-description">
+                                    <figure class="featured-image d-md-none">
+                                        <a href="https://form.jotform.com/193613278669068"> <img src="https://www.wrenphoto.com.au/wp-content/uploads/2014/08/100817_cricket_portrait-1.jpg" alt=""> </a>
+                                    </figure><!-- featured-image -->
+
+                                    <div class="lineup-artists-description-container">
+                                        <div class="entry-title">
+                                            Cricket
+                                        </div><!-- entry-title -->
+
+                                        <div class="entry-content">
+                                            <div class="card-deck">
+                                                <div class="card" style="border: none;">
+                                                    <p><b>Event Head &nbsp; (BOYS)</b><br>
+                                                        Name - <br>
+                                                        Phone No - <br>
+                                                    </p>
+                                                </div>
+                                                <div class="card" style="border: none;">
+                                                    <p><b>Event Head &nbsp; (GIRLS)</b><br>
+                                                        Name - <br>
+                                                        Phone No - <br>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div><!-- entry-content -->
+
+                                        <div class="box-link">
+                                            <a href="https://form.jotform.com/193613278669068"><img src="images/box.jpg" alt=""></a>
+                                        </div><!-- box-link -->
+                                    </div><!-- lineup-artists-description-container -->
+                                </div><!-- lineup-artists-description -->
+
+                                <figure class="featured-image d-none d-md-block">
+                                    <a href="https://form.jotform.com/193613278669068"> <img src="images/mathew-kane.jpg" alt=""> </a>
+                                </figure><!-- featured-image -->
+                            </div><!-- lineup-artists-wrap -->
+
+
+                            <div class="lineup-artists">
+                                <div class="lineup-artists-wrap flex flex-wrap">
+                                    <figure class="featured-image">
+                                        <a href="https://form.jotform.com/193613278669068"> <img src="./images/football.jpg" alt=""> </a>
+                                    </figure><!-- featured-image -->
+    
+                                    <div class="lineup-artists-description">
+                                        <div class="lineup-artists-description-container">
+                                            <div class="entry-title">
+                                                Football
+                                            </div><!-- entry-title -->
+    
+                                            <div class="entry-content">
+                                                <div class="card-deck">
+                                                    <div class="card" style="border: none;">
+                                                        <p><b>Event Head &nbsp; (BOYS)</b><br>
+                                                            Name - <br>
+                                                            Phone No - <br>
+                                                        </p>
+                                                    </div>
+                                                    <div class="card" style="border: none;">
+                                                        <p><b>Event Head &nbsp; (GIRLS)</b><br>
+                                                            Name - <br>
+                                                            Phone No - <br>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div><!-- entry-content -->
+    
+                                            <div class="box-link">
+                                                <a href=""><img src="images/box.jpg" alt=""></a>
+                                            </div><!-- box-link -->
+                                        </div><!-- lineup-artists-description-container -->
+                                    </div><!-- lineup-artists-description -->
+                                </div><!-- lineup-artists-wrap -->
+    
+                                
+    
+                                <div class="lineup-artists-wrap flex flex-wrap">
+                                    <div class="lineup-artists-description">
+                                        <figure class="featured-image d-md-none">
+                                            <a href="https://form.jotform.com/193613278669068"> <img src="./images/mathew-kane.jpg" alt=""> </a>
+                                        </figure><!-- featured-image -->
+    
+                                        <div class="lineup-artists-description-container">
+                                            <div class="entry-title">
+                                                Cricket
+                                            </div><!-- entry-title -->
+    
+                                            <div class="entry-content">
+                                                <div class="card-deck">
+                                                    <div class="card" style="border: none;">
+                                                        <p><b>Event Head &nbsp; (BOYS)</b><br>
+                                                            Name - <br>
+                                                            Phone No - <br>
+                                                        </p>
+                                                    </div>
+                                                    <div class="card" style="border: none;">
+                                                        <p><b>Event Head &nbsp; (GIRLS)</b><br>
+                                                            Name - <br>
+                                                            Phone No - <br>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div><!-- entry-content -->
+    
+                                            <div class="box-link">
+                                                <a href="https://form.jotform.com/193613278669068"><img src="images/box.jpg" alt=""></a>
+                                            </div><!-- box-link -->
+                                        </div><!-- lineup-artists-description-container -->
+                                    </div><!-- lineup-artists-description -->
+    
+                                    <figure class="featured-image d-none d-md-block">
+                                        <a href="https://form.jotform.com/193613278669068"> <img src="images/mathew-kane.jpg" alt=""> </a>
+                                    </figure><!-- featured-image -->
+                                </div><!-- lineup-artists-wrap -->
+    
+                                <div class="lineup-artists-wrap flex flex-wrap">
+                                    <figure class="featured-image">
+                                        <a href="https://form.jotform.com/193613278669068"> <img src="images/eric-ward.jpg" alt=""> </a>
+                                    </figure><!-- featured-image -->
+    
+                                    <div class="lineup-artists-description">
+                                        <div class="lineup-artists-description-container">
+                                            <div class="entry-title">
+                                                Basketball
+                                            </div><!-- entry-title -->
+    
+                                            <div class="entry-content">
+                                                <div class="card-deck">
+                                                    <div class="card" style="border: none;">
+                                                        <p><b>Event Head &nbsp; (BOYS)</b><br>
+                                                            Name - <br>
+                                                            Phone No - <br>
+                                                        </p>
+                                                    </div>
+                                                    <div class="card" style="border: none;">
+                                                        <p><b>Event Head &nbsp; (GIRLS)</b><br>
+                                                            Name - <br>
+                                                            Phone No - <br>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div><!-- entry-content -->
+    
+                                            <div class="box-link">
+                                                <a href="https://form.jotform.com/193613278669068"> <img src="images/box.jpg" alt=""></a>
+                                            </div><!-- box-link -->
+                                        </div><!-- lineup-artists-description-container -->
+                                    </div><!-- lineup-artists-description -->                                                             
+                                </div><!-- lineup-artists-wrap -->
+    
+                                <div class="lineup-artists-wrap flex flex-wrap">
+                                    <div class="lineup-artists-description">
+                                        <figure class="featured-image d-md-none">
+                                            <a href="https://form.jotform.com/193613278669068"> <img src="https://www.wrenphoto.com.au/wp-content/uploads/2014/08/100817_cricket_portrait-1.jpg" alt=""> </a>
+                                        </figure><!-- featured-image -->
+    
+                                        <div class="lineup-artists-description-container">
+                                            <div class="entry-title">
+                                                Cricket
+                                            </div><!-- entry-title -->
+    
+                                            <div class="entry-content">
+                                                <div class="card-deck">
+                                                    <div class="card" style="border: none;">
+                                                        <p><b>Event Head &nbsp; (BOYS)</b><br>
+                                                            Name - <br>
+                                                            Phone No - <br>
+                                                        </p>
+                                                    </div>
+                                                    <div class="card" style="border: none;">
+                                                        <p><b>Event Head &nbsp; (GIRLS)</b><br>
+                                                            Name - <br>
+                                                            Phone No - <br>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div><!-- entry-content -->
+    
+                                            <div class="box-link">
+                                                <a href="https://form.jotform.com/193613278669068"><img src="images/box.jpg" alt=""></a>
+                                            </div><!-- box-link -->
+                                        </div><!-- lineup-artists-description-container -->
+                                    </div><!-- lineup-artists-description -->
+    
+                                    <figure class="featured-image d-none d-md-block">
+                                        <a href="https://form.jotform.com/193613278669068"> <img src="images/mathew-kane.jpg" alt=""> </a>
+                                    </figure><!-- featured-image -->
+                                </div><!-- lineup-artists-wrap -->
+    
+    
+                                <div class="lineup-artists-wrap flex flex-wrap">
+                                    <figure class="featured-image">
+                                        <a href="https://form.jotform.com/193613278669068"> <img src="images/eric-ward.jpg" alt=""> </a>
+                                    </figure><!-- featured-image -->
+    
+                                    <div class="lineup-artists-description">
+                                        <div class="lineup-artists-description-container">
+                                            <div class="entry-title">
+                                                Basketball
+                                            </div><!-- entry-title -->
+    
+                                            <div class="entry-content">
+                                                <div class="card-deck">
+                                                    <div class="card" style="border: none;">
+                                                        <p><b>Event Head &nbsp; (BOYS)</b><br>
+                                                            Name - <br>
+                                                            Phone No - <br>
+                                                        </p>
+                                                    </div>
+                                                    <div class="card" style="border: none;">
+                                                        <p><b>Event Head &nbsp; (GIRLS)</b><br>
+                                                            Name - <br>
+                                                            Phone No - <br>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div><!-- entry-content -->
+    
+                                            <div class="box-link">
+                                                <a href="https://form.jotform.com/193613278669068"> <img src="images/box.jpg" alt=""></a>
+                                            </div><!-- box-link -->
+                                        </div><!-- lineup-artists-description-container -->
+                                    </div><!-- lineup-artists-description -->                                                             
+                                </div><!-- lineup-artists-wrap -->
+    
+                                <div class="lineup-artists-wrap flex flex-wrap">
+                                    <div class="lineup-artists-description">
+                                        <figure class="featured-image d-md-none">
+                                            <a href="https://form.jotform.com/193613278669068"> <img src="https://www.wrenphoto.com.au/wp-content/uploads/2014/08/100817_cricket_portrait-1.jpg" alt=""> </a>
+                                        </figure><!-- featured-image -->
+    
+                                        <div class="lineup-artists-description-container">
+                                            <div class="entry-title">
+                                                Cricket
+                                            </div><!-- entry-title -->
+    
+                                            <div class="entry-content">
+                                                <div class="card-deck">
+                                                    <div class="card" style="border: none;">
+                                                        <p><b>Event Head &nbsp; (BOYS)</b><br>
+                                                            Name - <br>
+                                                            Phone No - <br>
+                                                        </p>
+                                                    </div>
+                                                    <div class="card" style="border: none;">
+                                                        <p><b>Event Head &nbsp; (GIRLS)</b><br>
+                                                            Name - <br>
+                                                            Phone No - <br>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div><!-- entry-content -->
+    
+                                            <div class="box-link">
+                                                <a href="https://form.jotform.com/193613278669068"><img src="images/box.jpg" alt=""></a>
+                                            </div><!-- box-link -->
+                                        </div><!-- lineup-artists-description-container -->
+                                    </div><!-- lineup-artists-description -->
+    
+                                    <figure class="featured-image d-none d-md-block">
+                                        <a href="https://form.jotform.com/193613278669068"> <img src="images/mathew-kane.jpg" alt=""> </a>
+                                    </figure><!-- featured-image -->
+                                </div><!-- lineup-artists-wrap -->
+
+
+                                <div class="lineup-artists-wrap flex flex-wrap">
+                                    <figure class="featured-image">
+                                        <a href="https://form.jotform.com/193613278669068"> <img src="images/eric-ward.jpg" alt=""> </a>
+                                    </figure><!-- featured-image -->
+    
+                                    <div class="lineup-artists-description">
+                                        <div class="lineup-artists-description-container">
+                                            <div class="entry-title">
+                                                Basketball
+                                            </div><!-- entry-title -->
+    
+                                            <div class="entry-content">
+                                                <div class="card-deck">
+                                                    <div class="card" style="border: none;">
+                                                        <p><b>Event Head &nbsp; (BOYS)</b><br>
+                                                            Name - <br>
+                                                            Phone No - <br>
+                                                        </p>
+                                                    </div>
+                                                    <div class="card" style="border: none;">
+                                                        <p><b>Event Head &nbsp; (GIRLS)</b><br>
+                                                            Name - <br>
+                                                            Phone No - <br>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div><!-- entry-content -->
+    
+                                            <div class="box-link">
+                                                <a href="https://form.jotform.com/193613278669068"> <img src="images/box.jpg" alt=""></a>
+                                            </div><!-- box-link -->
+                                        </div><!-- lineup-artists-d
+escription-container -->
+                                    </div><!-- lineup-artists-description -->                                                             
+                                </div><!-- lineup-artists-wrap -->
