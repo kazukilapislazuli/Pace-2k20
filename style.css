@@ -346,7 +346,10 @@ body {
 -----------------------------------------------------------*/
 .hero-content {
     padding: 100px 0;
-    background: url("images/cover.jpg") no-repeat center;
+    background-image: url(./images/cover.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    backface-visibility: 80%;
     background-size: 100%;
 }
 
@@ -406,14 +409,14 @@ body {
     font-size: 72px;
     font-weight: 600;
     line-height: 1;
-    color:black;
+    color:white;
 }
 
 .countdown-holder label {
     display: block;
     font-size: 18px;
     font-weight: 600;
-    color:black;
+    color:white;
 }
 
 
